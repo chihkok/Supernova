@@ -1,3 +1,6 @@
 IF WS-PERSON = "Stupid"
 Display "You are stupid"
 END-IF.
+IF WS-AGE = > 50
+Display " You are old"
+END-IF.
