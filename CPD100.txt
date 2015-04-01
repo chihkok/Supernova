@@ -1,0 +1,3 @@
+IF WS-PERSON = "Stupid"
+Display "You are stupid"
+END-IF.
